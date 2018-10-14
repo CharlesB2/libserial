@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classLibSerial_1_1OpenFailed.html" title="Exception error thrown when the serial port could not be opened. " alt="" coords="158,5,305,32"/>
+<area shape="rect" id="node3" href="$classLibSerial_1_1ReadTimeout.html" title="Exception error thrown when data could not be read from the serial port before the timeout had been e..." alt="" coords="152,56,311,83"/>
+</map>
